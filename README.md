@@ -24,7 +24,6 @@ searchsteps.py : Python program to do the search in the bbc website
 Version : python-3.9 
 IDE : Pycharm (20.20)
 Libraries used : PYDICOM
-Sample file : ttfm.dcm
 
 
 
