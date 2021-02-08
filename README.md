@@ -1,5 +1,8 @@
 # BBCsearch_DICOM
-Program BBC_Login : Able to login and search news in  BBC using selenium and python
+
+This repository is doing 2 programmes using python and selenium 
+
+1. Able to login and search news in  BBC using selenium and python
 
 Version : python-3.9 
 IDE : Pycharm (20.20)
@@ -16,7 +19,8 @@ loginsteps.py : Python program for the user to login
 searchsteps.py : Python program to do the search in the bbc website
 
 
-Program DCM_project(DICOM) : Able to read dicom files and change the elements 
+2. Able to read dicom files and change the elements 
+
 Version : python-3.9 
 IDE : Pycharm (20.20)
 Libraries used : PYDICOM
