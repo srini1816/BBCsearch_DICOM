@@ -1,1 +1,0 @@
-# BBCsearch_DICOM
